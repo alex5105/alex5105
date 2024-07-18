@@ -16,7 +16,4 @@ Hello! I'm a passionate Full Stack Developer with a love for creating amazing we
 ## 💞️ Looking to Collaborate On
 I’m always eager to work on exciting web and mobile projects. If you have a project in mind or need help with something, feel free to reach out!
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex5105&show_icons=true&hide_title=true)
-
 Thanks for visiting my profile! Let's build something amazing together.
